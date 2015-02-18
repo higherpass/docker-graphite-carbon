@@ -1,0 +1,2 @@
+#!/bin/sh
+exec carbon-cache --debug --config=/etc/carbon/carbon.conf --logdir=/var/log/carbon start
